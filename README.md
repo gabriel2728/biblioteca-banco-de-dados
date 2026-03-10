@@ -24,3 +24,9 @@ Também foi criada uma tabela intermediária para representar o relacionamento N
 - Cadastro de autores  
 - Registro de empréstimos  
 - Controle de devolução
+ 
+# Inserções
+- Inserção de alunos
+- Inserção de autores
+- Inserção de livros
+  
